@@ -2,9 +2,11 @@
 A simple tutorial that explains how to SSH from one machine to another.
 
 ## Pre-requisites
+Before you start, make sure both of the machine are in the same subnet.
+
 To SSH to another machine, make sure both machines installed SSH. To verify it, run this command below:
 
-`>where ssh`
+`where ssh`
 
 In case you don't have, you must install it beforehand.
 
