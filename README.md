@@ -50,4 +50,6 @@ example: `ssh pringles@192.168.10.2`
 
 It will ask the password and  then you are logged in.
 
-==Happy SSH!==
+==Happy SSH==
+
+*source video: [How to SSH into Windows from Windows (and copy files remotely)](https:https://www.youtube.com/watch?v=pFTC4Rt-EDQ)*
