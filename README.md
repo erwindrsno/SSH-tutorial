@@ -52,4 +52,4 @@ It will ask the password and  then you are logged in.
 
 ==Happy SSH==
 
-*source video: [How to SSH into Windows from Windows (and copy files remotely)](https:https://www.youtube.com/watch?v=pFTC4Rt-EDQ)*
+*source video: [How to SSH into Windows from Windows (and copy files remotely)](https://www.youtube.com/watch?v=pFTC4Rt-EDQ)*
